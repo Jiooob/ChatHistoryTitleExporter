@@ -1,4 +1,4 @@
-# 适配 Gemini 历史记录导出工具 (Gemini History Exporter)
+# 适配 Gemini 历史记录“标题”导出工具 (Gemini History Exporter)
 
 ![Version](https://img.shields.io/badge/version-9.5-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
