@@ -15,6 +15,13 @@
 - **隐私安全**：所有数据处理均在**本地浏览器**完成，不经过任何第三方服务器。
 - **UI 交互**：提供可拖拽的控制面板/悬浮球，支持自定义日期范围和导出数量限制。
 
+- 效果如下
+<img width="468" height="890" alt="屏幕截图 2026-02-14 011304" src="https://github.com/user-attachments/assets/c070f4e6-92b1-4366-91c4-917b15494191" />
+<img width="513" height="879" alt="屏幕截图 2026-02-14 005810" src="https://github.com/user-attachments/assets/a4680c3c-d84b-4f7b-82dc-a2b912f6235f" />
+<img width="738" height="954" alt="image" src="https://github.com/user-attachments/assets/9825ced7-5a8e-43de-b7ad-3f83309f00dc" />
+
+
+
 ## 安装
 
 [👉 点击此处直接安装脚本 (v9.5)](https://github.com/Jiooob/ChatHistoryTitleExporter/raw/refs/heads/main/HistoryTitleExporter.user.js)
